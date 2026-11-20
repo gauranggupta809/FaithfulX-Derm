@@ -1,0 +1,236 @@
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+165 images x 14 conditions x 2 methods | split=test
+[1/165] ISIC_0026848  elapsed 0.4 min, est. total 58 min
+[2/165] ISIC_0026905  elapsed 0.6 min, est. total 53 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[3/165] ISIC_0027795  elapsed 0.9 min, est. total 51 min
+[4/165] ISIC_0032371  elapsed 1.2 min, est. total 49 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[5/165] ISIC_0026138  elapsed 1.5 min, est. total 48 min
+[6/165] ISIC_0030953  elapsed 1.8 min, est. total 49 min
+[7/165] ISIC_0025605  elapsed 2.0 min, est. total 48 min
+[8/165] ISIC_0031852  elapsed 2.3 min, est. total 48 min
+[9/165] ISIC_0024800  elapsed 2.6 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[10/165] ISIC_0029659  elapsed 2.9 min, est. total 47 min
+[11/165] ISIC_0027084  elapsed 3.1 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[12/165] ISIC_0032404  elapsed 3.4 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[13/165] ISIC_0024763  elapsed 3.7 min, est. total 47 min
+[14/165] ISIC_0030491  elapsed 4.0 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[15/165] ISIC_0029781  elapsed 4.2 min, est. total 47 min
+[16/165] ISIC_0030242  elapsed 4.5 min, est. total 47 min
+[17/165] ISIC_0025780  elapsed 4.8 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[18/165] ISIC_0026981  elapsed 5.1 min, est. total 47 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[19/165] ISIC_0030280  elapsed 5.5 min, est. total 48 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[20/165] ISIC_0031431  elapsed 5.8 min, est. total 48 min
+[21/165] ISIC_0031506  elapsed 6.1 min, est. total 48 min
+[22/165] ISIC_0029573  elapsed 6.4 min, est. total 48 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[23/165] ISIC_0025182  elapsed 6.8 min, est. total 48 min
+[24/165] ISIC_0029827  elapsed 7.1 min, est. total 49 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[25/165] ISIC_0032173  elapsed 7.4 min, est. total 49 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[26/165] ISIC_0027294  elapsed 7.7 min, est. total 49 min
+[27/165] ISIC_0030142  elapsed 7.9 min, est. total 49 min
+[28/165] ISIC_0025471  elapsed 8.2 min, est. total 49 min
+[29/165] ISIC_0030528  elapsed 16.9 min, est. total 96 min
+[30/165] ISIC_0028570  elapsed 27.3 min, est. total 150 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[31/165] ISIC_0025711  elapsed 37.7 min, est. total 201 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[32/165] ISIC_0029856  elapsed 38.1 min, est. total 196 min
+[33/165] ISIC_0030594  elapsed 38.4 min, est. total 192 min
+[34/165] ISIC_0026798  elapsed 38.8 min, est. total 188 min
+[35/165] ISIC_0029053  elapsed 45.4 min, est. total 214 min
+[36/165] ISIC_0028937  elapsed 45.7 min, est. total 210 min
+[37/165] ISIC_0025700  elapsed 46.2 min, est. total 206 min
+[38/165] ISIC_0029489  elapsed 46.5 min, est. total 202 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[39/165] ISIC_0026213  elapsed 46.9 min, est. total 198 min
+[40/165] ISIC_0031527  elapsed 47.2 min, est. total 195 min
+[41/165] ISIC_0028994  elapsed 47.5 min, est. total 191 min
+[42/165] ISIC_0031836  elapsed 47.8 min, est. total 188 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[43/165] ISIC_0030403  elapsed 48.1 min, est. total 184 min
+[44/165] ISIC_0031976  elapsed 48.4 min, est. total 181 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[45/165] ISIC_0028457  elapsed 48.7 min, est. total 179 min
+[46/165] ISIC_0027189  elapsed 49.0 min, est. total 176 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[47/165] ISIC_0031266  elapsed 49.3 min, est. total 173 min
+[48/165] ISIC_0028155  elapsed 49.6 min, est. total 170 min
+[49/165] ISIC_0025576  elapsed 49.9 min, est. total 168 min
+[50/165] ISIC_0034255  elapsed 50.2 min, est. total 166 min
+[51/165] ISIC_0028238  elapsed 50.5 min, est. total 163 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[52/165] ISIC_0024949  elapsed 50.8 min, est. total 161 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[53/165] ISIC_0024345  elapsed 51.2 min, est. total 159 min
+[54/165] ISIC_0029391  elapsed 51.5 min, est. total 157 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[55/165] ISIC_0028818  elapsed 51.8 min, est. total 155 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[56/165] ISIC_0031824  elapsed 52.2 min, est. total 154 min
+[57/165] ISIC_0024748  elapsed 52.6 min, est. total 152 min
+[58/165] ISIC_0029010  elapsed 53.0 min, est. total 151 min
+[59/165] ISIC_0025376  elapsed 53.3 min, est. total 149 min
+[60/165] ISIC_0030272  elapsed 53.6 min, est. total 147 min
+[61/165] ISIC_0027295  elapsed 54.0 min, est. total 146 min
+[62/165] ISIC_0033613  elapsed 57.3 min, est. total 152 min
+[63/165] ISIC_0024883  elapsed 57.6 min, est. total 151 min
+[64/165] ISIC_0031000  elapsed 57.9 min, est. total 149 min
+[65/165] ISIC_0029472  elapsed 58.2 min, est. total 148 min
+[66/165] ISIC_0025337  elapsed 58.5 min, est. total 146 min
+[67/165] ISIC_0032556  elapsed 58.8 min, est. total 145 min
+[68/165] ISIC_0025345  elapsed 59.0 min, est. total 143 min
+[69/165] ISIC_0032773  elapsed 59.4 min, est. total 142 min
+[70/165] ISIC_0029897  elapsed 59.7 min, est. total 141 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[71/165] ISIC_0031584  elapsed 59.9 min, est. total 139 min
+[72/165] ISIC_0033200  elapsed 60.2 min, est. total 138 min
+[73/165] ISIC_0028656  elapsed 60.5 min, est. total 137 min
+[74/165] ISIC_0030849  elapsed 60.8 min, est. total 136 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[75/165] ISIC_0031872  elapsed 61.1 min, est. total 134 min
+[76/165] ISIC_0032553  elapsed 61.4 min, est. total 133 min
+[77/165] ISIC_0025387  elapsed 61.6 min, est. total 132 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[78/165] ISIC_0031424  elapsed 62.0 min, est. total 131 min
+[79/165] ISIC_0027042  elapsed 62.3 min, est. total 130 min
+[80/165] ISIC_0025939  elapsed 62.6 min, est. total 129 min
+[81/165] ISIC_0034040  elapsed 63.0 min, est. total 128 min
+[82/165] ISIC_0024505  elapsed 63.3 min, est. total 127 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[83/165] ISIC_0029580  elapsed 63.6 min, est. total 126 min
+[84/165] ISIC_0029302  elapsed 64.1 min, est. total 126 min
+[85/165] ISIC_0031271  elapsed 73.9 min, est. total 143 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[86/165] ISIC_0030579  elapsed 84.3 min, est. total 162 min
+[87/165] ISIC_0029962  elapsed 93.7 min, est. total 178 min
+[88/165] ISIC_0031735  elapsed 94.1 min, est. total 176 min
+[89/165] ISIC_0031443  elapsed 113.8 min, est. total 211 min
+[90/165] ISIC_0033790  elapsed 114.6 min, est. total 210 min
+165 images x 14 conditions x 2 methods | split=test
+[1/75] ISIC_0026313  elapsed 0.4 min, est. total 28 min
+[2/75] ISIC_0027488  elapsed 0.9 min, est. total 34 min
+[3/75] ISIC_0024994  elapsed 1.3 min, est. total 32 min
+[4/75] ISIC_0030555  elapsed 1.6 min, est. total 29 min
+[5/75] ISIC_0029973  elapsed 1.8 min, est. total 28 min
+[6/75] ISIC_0034089  elapsed 2.1 min, est. total 26 min
+[7/75] ISIC_0028916  elapsed 2.4 min, est. total 26 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[8/75] ISIC_0032204  elapsed 2.7 min, est. total 25 min
+[9/75] ISIC_0030366  elapsed 3.0 min, est. total 25 min
+[10/75] ISIC_0025800  elapsed 3.3 min, est. total 25 min
+[11/75] ISIC_0031386  elapsed 3.6 min, est. total 24 min
+[12/75] ISIC_0024700  elapsed 3.8 min, est. total 24 min
+[13/75] ISIC_0033807  elapsed 4.1 min, est. total 24 min
+[14/75] ISIC_0033192  elapsed 4.4 min, est. total 24 min
+[15/75] ISIC_0033479  elapsed 4.7 min, est. total 23 min
+[16/75] ISIC_0032982  elapsed 5.0 min, est. total 23 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[17/75] ISIC_0033278  elapsed 5.2 min, est. total 23 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[18/75] ISIC_0028764  elapsed 5.5 min, est. total 23 min
+[19/75] ISIC_0033524  elapsed 5.8 min, est. total 23 min
+[20/75] ISIC_0034052  elapsed 6.1 min, est. total 23 min
+[21/75] ISIC_0033801  elapsed 6.4 min, est. total 23 min
+[22/75] ISIC_0030616  elapsed 6.7 min, est. total 23 min
+[23/75] ISIC_0030507  elapsed 6.9 min, est. total 23 min
+[24/75] ISIC_0033337  elapsed 7.2 min, est. total 23 min
+[25/75] ISIC_0032845  elapsed 7.6 min, est. total 23 min
+[26/75] ISIC_0028442  elapsed 7.9 min, est. total 23 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[27/75] ISIC_0031186  elapsed 8.2 min, est. total 23 min
+[28/75] ISIC_0032214  elapsed 8.5 min, est. total 23 min
+[29/75] ISIC_0033905  elapsed 8.8 min, est. total 23 min
+[30/75] ISIC_0032232  elapsed 9.1 min, est. total 23 min
+[31/75] ISIC_0032331  elapsed 9.4 min, est. total 23 min
+[32/75] ISIC_0032182  elapsed 9.7 min, est. total 23 min
+[33/75] ISIC_0026369  elapsed 10.0 min, est. total 23 min
+[34/75] ISIC_0032679  elapsed 10.3 min, est. total 23 min
+[35/75] ISIC_0028422  elapsed 10.6 min, est. total 23 min
+[36/75] ISIC_0032226  elapsed 10.9 min, est. total 23 min
+[37/75] ISIC_0032266  elapsed 11.2 min, est. total 23 min
+[38/75] ISIC_0028665  elapsed 11.5 min, est. total 23 min
+[39/75] ISIC_0024561  elapsed 11.8 min, est. total 23 min
+[40/75] ISIC_0029862  elapsed 12.1 min, est. total 23 min
+[41/75] ISIC_0028776  elapsed 12.4 min, est. total 23 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[42/75] ISIC_0033101  elapsed 12.7 min, est. total 23 min
+[43/75] ISIC_0026284  elapsed 13.0 min, est. total 23 min
+[44/75] ISIC_0026580  elapsed 13.3 min, est. total 23 min
+[45/75] ISIC_0026053  elapsed 13.6 min, est. total 23 min
+[46/75] ISIC_0031285  elapsed 13.9 min, est. total 23 min
+[47/75] ISIC_0026589  elapsed 14.1 min, est. total 23 min
+[48/75] ISIC_0033288  elapsed 14.4 min, est. total 23 min
+[49/75] ISIC_0030941  elapsed 14.7 min, est. total 23 min
+[50/75] ISIC_0027087  elapsed 15.0 min, est. total 23 min
+[51/75] ISIC_0029648  elapsed 15.3 min, est. total 23 min
+[52/75] ISIC_0029867  elapsed 15.6 min, est. total 23 min
+[53/75] ISIC_0026676  elapsed 15.9 min, est. total 23 min
+[54/75] ISIC_0033686  elapsed 16.2 min, est. total 23 min
+[55/75] ISIC_0034312  elapsed 16.6 min, est. total 23 min
+[56/75] ISIC_0025232  elapsed 16.9 min, est. total 23 min
+[57/75] ISIC_0029296  elapsed 17.2 min, est. total 23 min
+[58/75] ISIC_0029623  elapsed 17.5 min, est. total 23 min
+[59/75] ISIC_0025990  elapsed 17.8 min, est. total 23 min
+[60/75] ISIC_0024320  elapsed 18.1 min, est. total 23 min
+[61/75] ISIC_0026680  elapsed 18.5 min, est. total 23 min
+[62/75] ISIC_0024669  elapsed 18.8 min, est. total 23 min
+[63/75] ISIC_0030606  elapsed 19.1 min, est. total 23 min
+[64/75] ISIC_0032775  elapsed 19.4 min, est. total 23 min
+[65/75] ISIC_0026490  elapsed 19.8 min, est. total 23 min
+[66/75] ISIC_0030070  elapsed 22.9 min, est. total 26 min
+/Users/gaurav/Desktop/AIML Project/FaithfulX-Derm/src/xai.py:60: ConstantInputWarning: An input array is constant; the correlation coefficient is not defined.
+  rho = spearmanr(a, b).correlation
+[67/75] ISIC_0034196  elapsed 23.2 min, est. total 26 min
+[68/75] ISIC_0028146  elapsed 23.5 min, est. total 26 min
+[69/75] ISIC_0029742  elapsed 23.8 min, est. total 26 min
+[70/75] ISIC_0031217  elapsed 24.1 min, est. total 26 min
+[71/75] ISIC_0031090  elapsed 24.4 min, est. total 26 min
+[72/75] ISIC_0027937  elapsed 24.7 min, est. total 26 min
+[73/75] ISIC_0031065  elapsed 25.0 min, est. total 26 min
+[74/75] ISIC_0031201  elapsed 25.3 min, est. total 26 min
+[75/75] ISIC_0025244  elapsed 25.6 min, est. total 26 min
+Saved results_test/stability.csv
